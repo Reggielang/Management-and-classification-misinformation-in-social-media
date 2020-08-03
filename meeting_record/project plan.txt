@@ -1,0 +1,14 @@
+项目目标：比较英汉tweet数据中的情感基调和攻击性。
+Compare the emotion and aggression in English and Chinese tweet data.
+
+I want to compare their tweet'emotion and aggression in recent months to see if there is any aggressive behavior , such as spreading rumors and denigrating people or countries. too see what they are talking, and  different between chinese and English rumors.
+
+max 2 pages. 
+You could use this structure: 
+(1) Project Title
+
+(2) Project Description - A brief description of your project outlining the problem you are trying to solve and its context.
+
+(3) Project Aims and Objectives - List the main aims and objectives of your project. Try to be as specific as possible at this stage, since your supervisor will be helping you to assess progress against the aims & objectives during the remainder of your project, and any corrective actions necessary.
+
+(4) Work Plan - What you are working on when. Include milestones.

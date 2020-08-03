@@ -1,0 +1,18 @@
+整个分类过程类似管道
+1。 情感词典是第一层，筛选出消极情感的推文-一次分类。
+
+2. 选择最好的分类模型带入分类出攻击性的推文-二次分类。
+ 2.1使用网格搜索选择最佳的参数，并选择最佳模型(根据OLID的论文显示机器学习中SVM，可能效果最好，
+记得在论文中说明为什么使用这几种算法，并写上引用来源)
+
+Last week I mentioned that I would use two steps to get negative sentiment tweets.
+
+The sentiment dictionary matching is the step one, The second step is to use machine learning models,
+
+according to the classification results, there are also a large number of offensive comments and rumors in the data classified as normal tweets, which proves that this classification is not correct.  This may be caused by a large number of new topics and new words in the new data set.
+
+So I changed my strategy and dont use machine learning. I want to use two keyword list scanning, the first time I selected countries and hot topics, and the second time I used the terms of disinformation(which is the file on the team space). The results in this way may be better. 
+
+Then use a text sentiment tool to get negative sentiment tweets. the tool named SentiStrength， 
+It based on the emotional dictionary usually it is used for social web texts
+I think this method can also get good results.

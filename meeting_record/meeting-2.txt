@@ -1,0 +1,5 @@
+Compare the emotional tone and aggression in English and Chinese tweet data.
+
+I want to compare their tweet'emotion and aggression in recent months to see if there is any aggressive behavior , such as spreading rumors and denigrating people or countries.
+
+By looking for some keywords, including China, USA, EU, South America, I found that there were a lot of rumors or conspiracy theories, or even offensive statements, such as the United States is moving towards World War III.

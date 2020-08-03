@@ -1,0 +1,24 @@
+week4
+I got a lot of help in  last week, code support, comments, training data resources. 
+I made some progress
+For English Twitter data, I want to find offensive tweets in two ways. 1.use sentiment emotion dictionary to calculated their emotion score  2. Through machine learning methods，use a model for english twitter data. it means  i can do  filter twice maybe can get better results for offensive tweet
+
+for Chinese Twitter data, I am collecting and cleaning through  the disinformation keywords list,
+There are  about 100,000 Chinese data, which I think is enough number for this project.
+
+(1).基于词典的方法。
+筛选存在国家的tweet，然后再通过基于词典的情感分析工具来计算tweet的得分
+记得写上引用：SentiStrength 
+（The Heart and Soul of the Web? Sentiment Strength Detection in the Social Web with SentiStrength） 
+(2).基于机器学习的方法
+OLID关于攻击性语言的训练数据集
+记得写上引用 : https://sites.google.com/site/offensevalsharedtask/olid
+调整参数优化结果。
+
+继续收集其他数据，包括关于中文的数据，以及其他主题的数据收集
+
+中文tweet搜索关键词：
+包括之前David提供的关键词
+特朗普，中国共产党，
+美国，欧洲国家，英国
+新冠, 疫情

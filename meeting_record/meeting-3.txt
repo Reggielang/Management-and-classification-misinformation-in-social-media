@@ -1,0 +1,8 @@
+After doing some data cleansing, I tried to use some keywords to find tweets with strong emotions targeted at countries and national groups.
+
+1. 展示一下工作，不同国家之间的tweet频繁词云。
+包括一些谣言类型的tweet原文。
+
+is this analysis direction is correct, for next, I want to match some tweets with the Bad Sentiment Word List to extract negative tweets to some countries.
+
+我这个分析方向是否正确，以及接下来的工作，想用bad sentiment word list 匹配这些推文，从而提取对一些国家的消极推文。

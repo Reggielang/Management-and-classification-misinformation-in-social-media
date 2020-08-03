@@ -1,0 +1,29 @@
+Read the data sets in JSON format
+1.  find the  useful field that needs to be extracted, and create an extraction function.
+2.  files are too large, it cannot be extracted at once (memory error)
+Multiple files use two functions together to complete data extraction and DataFrame reading and save them as PKL files.
+
+Data preprocessing and cleaning
+1. Combine PKL data into a DataFrame.
+2. Pre-process the data and  some necessary cleaning.
+
+Convert paths to save cleaned data as a file
+
+Data Visualization of tweet information
+After deep cleaning of tweet data,  we can do some data visualization analysis to help me to understand the data.
+
+
+Separate storage and processing of text data
+Now focus on text data
+The processing of tweet text data includes：
+1.the conversion of lowercase letters
+2.deletion of @user and RT from each tweet
+3.deletion of words with a length of less than 3
+4.Delete punctuation
+5.removal of stop words
+6.The part of speech reduction
+7.word segmentation
+3.After processing, tweet has become some important words.
+
+My project is about data analysis and classification of misinformation, so the next thing to do is feature engineering and the construction of classification models to classify them.
+research method(CRISP-DM模型)
